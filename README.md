@@ -136,7 +136,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-environ](https://github.com/joke2k/django-environ) - Environment variables.
 - [django-split-settings](https://github.com/sobolevn/django-split-settings) - Organize multiple settings files.
 - [django-constance](https://github.com/jazzband/django-constance) - A Django app for storing dynamic settings in pluggable backends (Redis and Django model backend built in) with an integration with the Django admin app.
-- [djenv](https://github.com/danieljdufour/djenv) - Load Django settings from environmental variables.
 - [django-configurations](https://github.com/jazzband/django-configurations) - eases Django project configuration by relying on the composability of Python classes and following principles of [the twelve-factor app](https://12factor.net/config).
 - [dynaconf](https://www.dynaconf.com/django/) - Dynaconf loads django settings from multiple sources (multiple file formats, env vars, redis, vault, etcd), manages secrets, and allows for different merging strategies all following [the twelve-factor app](https://12factor.net/config).
 - [django-extra-settings](https://github.com/fabiocaccamo/django-extra-settings) - Config and manage typed extra settings using just the django admin.
@@ -201,6 +200,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-tables2](https://github.com/jieter/django-tables2) - HTML tables with pagination/sorting.
 - [django-maintenance-mode](https://github.com/fabiocaccamo/django-maintenance-mode) - Shows a 503 error page when maintenance-mode is on.
 - [django-freeze](https://github.com/fabiocaccamo/django-freeze) - Convert your dynamic django site to a static one with one line of code.
+- [Weblate](https://github.com/WeblateOrg/weblate) - Weblate is a copylefted libre software web-based continuous localization system, used by over 2500 libre projects and companies in more than 165 countries.
 
 ### Logging
 - [django-guid](https://github.com/JonasKs/django-guid) - Inject a GUID (Correlation-ID) into every log message in a Django request.
@@ -338,6 +338,8 @@ _A short list of Python packages that work well with Django._
 - [Django Sites](https://www.djangosites.org/) - Comprehensive listing of sites built with Django.
 - [Django Styleguide](https://github.com/HackSoftware/Django-Styleguide) - Styleguide for Django with best practices and examples.
 - [Django Template Tags and Filters](https://www.djangotemplatetagsandfilters.com/) - Additional docs on Django's 57 built-in template filters and 27 template tags.
+- [Django for Everybody](https://www.dj4e.com/) - A complete course for webdev beginners focused on Django.
+- [CS50W](https://cs50.harvard.edu/web/2020/) - Harvard's University introductory course to web development, it explains Django as backend framework.
 
 ### Community
 
@@ -425,6 +427,7 @@ _Django 3.2_
 - [DRFx](https://github.com/wsvincent/drfx/) - A DRF starter with user auth, Pipenv, and other goodies.
 - [django-project-template](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
 - [docker-django](https://github.com/erroneousboat/docker-django/) - A quick starter guide for Django and Docker together.
+- [django-docker-template](https://github.com/amerkurev/django-docker-template) - Dockerized Django with Postgres, Gunicorn, and Traefik (with auto renew Let's Encrypt).
 - [django-startproject](https://github.com/jefftriplett/django-startproject) - Django start project template with batteries.
 - [wemake-django-template](https://github.com/wemake-services/wemake-django-template/) - Bleeding edge Django template focused on code quality and security.
 - [django-webpack-starter](https://github.com/khadegd/django-webpack-starter) - Django Webpack starter template for using Webpack 4.
