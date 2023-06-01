@@ -114,6 +114,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [graphene-django](https://github.com/graphql-python/graphene-django) - GraphQL for Django.
 - [django-ninja](https://django-ninja.rest-framework.com/) - Django Ninja - Fast Django REST framework based on type annotations.
 - [django-tastypie](https://github.com/django-tastypie/django-tastypie) - Creating delicious APIs for Django apps since 2010.
+- [drf-spectacular](https://github.com/tfranzel/drf-spectacular) - Sane and flexible OpenAPI 3 schema generation for Django REST framework.
 <!--lint enable double-link-->
 
 ### Async
@@ -400,23 +401,23 @@ _Django 3.2_
 
 ### PaaS (Platforms-as-a-Service)
 - [Appliku](https://appliku.com)
-- [Dokku](http://dokku.viewdocs.io/dokku/)
-- [Divio](https://www.divio.com/)
+- [Dokku](https://dokku.com)
+- [Divio](https://www.divio.com)
 - [Fly](https://fly.io)
 - [Google Cloud](https://cloud.google.com/python/django/)
-- [Heroku](https://www.heroku.com/)
+- [Heroku](https://www.heroku.com)
 - [Microsoft Azure](https://azure.microsoft.com/en-us/develop/python/)
-- [Platform.sh](https://platform.sh/)
+- [Platform.sh](https://platform.sh)
 - [PythonAnywhere](https://www.pythonanywhere.com)
-- [Railway](https://railway.app/)
-- [Render](https://render.com/)
+- [Railway](https://railway.app)
+- [Render](https://render.com)
 - [Vercel](https://vercel.com/home)
 
 ### IaaS (Infrastructure-as-a-Service)
 - [Digital Ocean](https://www.digitalocean.com)
-- [Linode](https://www.linode.com/)
+- [Linode](https://www.linode.com)
 - [Amazon Lightsail](https://aws.amazon.com/lightsail/)
-- [Hetzner](https://www.hetzner.com/)
+- [Hetzner](https://www.hetzner.com)
 
 ## Projects
 
@@ -468,9 +469,7 @@ _The most popular way to build web APIs with Django._
 
 <!--lint ignore double-link-->
 - [Official REST Framework - A Beginner's Guide](https://learndjango.com/tutorials/official-django-rest-framework-tutorial-beginners)
-- [DRF Blog API](https://wsvincent.com/django-rest-framework-tutorial/)
 - [Building APIs with Django and DRF](https://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/)
-- [DRF with React: Todo API](https://wsvincent.com/django-rest-framework-react-tutorial/)
 - [DRF with React](https://www.valentinog.com/blog/drf/)
 - [Making React and Django play well together](https://fractalideas.com/blog/making-react-and-django-play-well-together/)
 
